@@ -97,9 +97,9 @@ A collection of ASCII and Unicode symbols for drawing boxes, decoration, and cre
 ### Simple Box
 
 ```
-┏━━━━━━┓
+┏━━━━━━━┓
 ┃ Hello ┃
-┗━━━━━━┛
+┗━━━━━━━┛
 ```
 
 ### Menu Layout
@@ -114,10 +114,3 @@ A collection of ASCII and Unicode symbols for drawing boxes, decoration, and cre
 ╚════════════╝
 ```
 
-### Mixed Decorations
-
-```
-【╔════╗】
-  ︻│Menu│︼
-【╚════╝】
-```
